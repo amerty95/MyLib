@@ -5,6 +5,6 @@ package com.example.zorlu.mylibrary;
  */
 public class Test {
     public static String getString() {
-        return "3";
+        return "no tag - last version";
     }
 }
