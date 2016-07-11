@@ -11,7 +11,7 @@ public class Test {
     public static String getString() {
 
 
-        String version = "test12345";
+        String version = "test123456";
         return version;
     }
 }
